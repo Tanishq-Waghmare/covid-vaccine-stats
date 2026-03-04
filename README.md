@@ -4,9 +4,13 @@ statistical analysis on covid vaccine statewise dataset.
 
 
 #STEPS TO RUN THIS FILE
+
 1.Upload .ipynb file to Google Drive
+
 2.Open with Google Colab
+
 3.Upload dataset file
+
 4.Run all cells
 
                              #OR
